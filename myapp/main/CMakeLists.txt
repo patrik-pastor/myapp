@@ -10,5 +10,5 @@ target_link_directories(myapp
 target_link_libraries(myapp
         gui
         model
-        glfw3
-        cmake_tutorial)
+        cmake_tutorial
+        glfw3)
