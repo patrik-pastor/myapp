@@ -1,5 +1,8 @@
 #include <myapp/gui/printer.hpp>
 
+void display();
+
 int main() {
-    myapp::Printer::PrintDefaultUser();
+//    myapp::Printer::PrintDefaultUser();
+    display();
 }
